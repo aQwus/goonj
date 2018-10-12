@@ -10,6 +10,6 @@ The problem arises when even in such a _connected_ world we are cut off from any
 
 #### The Solution
 
-Goonj is a breakthrough app which uses your phone's Wi-Fi and bluetooth capabilities to create a local peer-to-peer network through which you can share your location and/or your situation to people and the rescue teams nearby if needed.
+Goonj is a breakthrough app which uses your phone's Wi-Fi and Bluetooth capabilities to create a local peer-to-peer network through which you can share your location and/or your situation to people and the rescue teams nearby if needed.
 
 Since this network does not require the need of your traditional mobile-networks and towers, any sort of calamity won't affect your ability to reach out and ask for help. Your cry for help will be heard.
